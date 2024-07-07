@@ -17,3 +17,12 @@ Clear Temp Folder is a utility tool designed to automatically clean the temporar
    ```bash
    git clone https://github.com/YOUR_USERNAME/Clear-Temp-Folder.git
    cd Clear-Temp-Folder
+
+2. Ensure you have Java installed. This project is built using Java, so you need to have JDK installed on your machine.
+3. Compile the project:
+   ```bash
+   javac Prog.java
+4. Run the project:
+   ```bash
+   java Prog
+
